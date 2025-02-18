@@ -30,3 +30,15 @@
 ## Clase 5. Regresión lineal Bayesiana
 
 1. [Regresión lineal Bayesiana](https://www.youtube.com/playlist?list=PLShe0rBs7WsRUUAZI_o4bWJI9FPOed-_i)
+
+
+# Modulo 2.
+
+## Clase 6. Introducción a redes Bayesianas
+
+1. [Fundamentos de redes Bayesianas](https://www.youtube.com/watch?v=yS7hyFiwnPs)
+
+## Clase 7. Inferencia en redes Bayesianas
+
+1. [Inferencia en redes Bayesianas](https://www.youtube.com/watch?v=TuGDMj43ehw)
+ 
